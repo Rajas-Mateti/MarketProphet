@@ -26,7 +26,7 @@ This project aims to predict stock market trends by combining three key analyses
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/stock-prediction-system.git
+https://github.com/Rajas-Mateti/MarketProphet.git
 ```
 
 2. Install the required dependencies:
@@ -38,7 +38,9 @@ pip install -r requirements.txt
 3. Run the main prediction script:
 
 ```bash
-python predict.py
+python RunMe.py
+python build_model.py
+python predicting.py
 ```
 
 ## Contributions
